@@ -1,5 +1,27 @@
 # Learning to Play Tic-Tac-Toe 🎮
 
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img 
+        src="https://github.com/user-attachments/assets/355071bc-2857-4b0a-8c87-e9be53de94a0"
+        width="100%"
+        style="max-height:420px; object-fit:contain;"
+      >
+    </td>
+    <td width="50%" align="center">
+      <img 
+        src="https://github.com/user-attachments/assets/aa3ff9d5-3cb3-412e-a859-4558f0ecd106"
+        width="100%"
+        style="max-height:420px; object-fit:contain;"
+      >
+    </td>
+  </tr>
+</table>
+
+
+
+
 This project shows how a computer program can learn to play Tic-Tac-Toe *from experience*, rather than by following hard-coded rules. Starting with no strategy at all, the agent plays thousands of games, learns from wins and losses, and gradually improves its decision-making over time.
 
 
